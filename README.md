@@ -1,9 +1,8 @@
+# Portfolio Website
 
-Portfolio Website Readme
-Overview
-Welcome to my portfolio website! This website serves as a showcase of my skills, projects, and achievements. Feel free to explore and learn more about my work.
+Welcome to my portfolio website! This repository contains the code for my personal portfolio, showcasing my skills, projects, and experiences.
 
-Website Link: https://tfx49g-5000.csb.app/
+**WEBSITE LINK:** [https://tfx49g-5000.csb.app/](https://tfx49g-5000.csb.app/)
 
 Introduction
 This portfolio website is designed to provide a comprehensive overview of my skills, projects, and experiences. It aims to showcase my work in a visually appealing and user-friendly manner.
