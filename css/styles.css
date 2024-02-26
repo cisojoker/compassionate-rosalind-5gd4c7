@@ -28,10 +28,10 @@ h3 {
   font-size: 1rem;
 }
 hr {
-  border: dotted rgb(161, 161, 161);
+  border: dotted rgb(0, 0, 0);
   border-width: 10px;
   border-top: none;
-  width: 15%;
+  width: 20%;
   margin: 100px auto;
 }
 .m {
@@ -55,6 +55,7 @@ hr {
   margin-right: 0;
   margin-left: 0;
   margin-top: 20px;
+  border-radius: 50%;
 }
 .skills {
   margin-top: 100px auto 100px auto;
@@ -102,7 +103,7 @@ a:hover {
   text-decoration: none;
 }
 .intro {
-  width: 40%;
+  width: 65%;
   margin: auto;
 }
 .message {
@@ -115,4 +116,11 @@ a:hover {
   font-size: 0.75rem;
   margin-bottom: 0;
   padding-bottom: 0;
+}
+.card-title {
+  font-weight: bold;
+  color: black;
+  border-bottom: 2px solid #007bff; /* Blue color */
+  padding-bottom: 5px; /* Adjust spacing as needed */
+  margin-bottom: 10px; /* Adjust spacing as needed */
 }
