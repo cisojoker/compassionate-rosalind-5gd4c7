@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website! This repository contains the code for my personal portfolio, showcasing my skills, projects, and experiences.
 
-**WEBSITE LINK:** [https://cisojoker.github.io/portfolio/]([[https://cisojoker.github.io/portfolio/]](https://cisojoker.github.io/portfolio/))
+**WEBSITE LINK:** [https://cisojoker.github.io/portfolio/]([https://www.linkedin.com/in/madhur-verma-90b44722a](https://cisojoker.github.io/portfolio/)).
 
 **#Introduction**
 
